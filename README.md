@@ -1,9 +1,7 @@
 # MyToken
-This Solidity program is a simple contract that demonstrates the basic syntax and functionality of the Solidity programming language. The purpose of this program is to serve as a starting point for those who are new to Solidity and want to get a feel for how it works.
-
+The Solidity program is a contract that denotes the syntax and functionality of a type of coding language used in Blockchain technology. This program is a starting point for beginners and its agenda is to get a hang of how the program works.
 ## Description
-This program is a contract written in Solidity, a programming language used for developing smart contracts on the Ethereum blockchain. The contract has two functions that allow you to mint and burn tokens.When a certain amount of tokens are passed with the address its either minted i.e. when the mint function is called tokens are added in the address and similarly when the burn function is called tokens are subtracted in the address. This program serves as a simple and straightforward introduction to Solidity programming.
-
+The program is a contract written in Solidity which is a programming language used for developing smart contracts on the Ethereum blockchain. Minting and burning tokens are the two main functions of this contract. When a number of tokens are passed with the address its either minted or burned. Its called the mint function when the tokens are added in the address and its called the burn function when tokens are subtracted from the address. This program is a simple and easy introduction to the Solidity programming.
 ## Getting Started
 ### Executing program
 To run this program, you can use Remix, an online Solidity IDE. To get started, go to the Remix website at https://remix.ethereum.org/.
